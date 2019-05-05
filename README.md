@@ -13,13 +13,13 @@ The Dog Party 2.0 project was an example of a project that a front end developer
 ![](portfolio/comp2.jpg)
 
 ### Comp Two Completed Layout:
-![](portfolio/comp2_AJL.jpg)
+![](portfolio/comp2_AJL.png)
 
 ### Comp Two (received May 1, 2019):
 ![](portfolio/comp2.jpg)
 
 ### Comp Two Completed Layout:
-![](portfolio/comp2_AJL.jpg)
+![](portfolio/comp2_AJL.png)
 
 >>>>>>> 23be99fc92d1e3e6fddc0575fe54204fba9d63c3
 ## Project Takeaways:
