@@ -1,10 +1,10 @@
 body{
   font-family: "Open Sans", sans-serif;
   height: 100%;
-  width: 100%;
   margin: 0;
   margin-top: 0px;
   padding: 0;
+  width: 100%;
 }
 
 nav{
@@ -14,28 +14,24 @@ nav{
   height: 70px;
   margin-top: -70px;
   position: fixed;
-  text-align: center;
   width: 100%;
 }
 
 .logo{
   float: left;
   height: 60px;
+  margin-top: 6px;
   padding: 10px 10px 10px 10px;	
   width: 60px;
-}
-
-ul{
-  margin-bottom: 10px;
 }
 
 li{   
   color: #000000;
   display: inline;
   float: right;
+  margin-bottom: 10px;
   margin-right: 20px;
   margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 header{
@@ -45,7 +41,7 @@ header{
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-size: cover;
-  height: 500px;
+  height: 430px;
   margin-top: 70px;
   padding-bottom: 20px;
   width: 100%;
@@ -53,18 +49,15 @@ header{
 
 h1{
   color: #ffffff;
-  margin: 15px 5px 5px 5px;
   padding-top: 40px;
   text-align: center;
 }
 
 .static-headline{
-  font-stretch: expanded;
   font-weight: 100;
 }
 
 #bold-headline{
-  font-stretch: expanded;
   font-weight: 800;
 }
 
@@ -72,28 +65,21 @@ h1{
   border: 4px solid #048eaa;
   border-radius: 50%;
   display: block;
-  height: 200px;
-  padding: 0px;
   margin: auto;
-  margin-top: 50px;
   width: 200px;
 }
 
 form{
-  font-size: 13px;
-  height: 35px;
   margin: auto;
-  text-align: left;
   width: 365px;
 }
 
 .form-name{
-  margin: 0px 0px 4px 0px;
   color: #ffffff;
+  margin: 0px 0px 4px 0px;
 }
 
 #form-input{
-  display: inline-block;
   height: 33px;
   width: 365px;
 }
@@ -115,15 +101,14 @@ main{
 
 .column-section{
   float: left;
+  height: 556px;
   margin: 10px;
   padding: 10px;
   position: center;
   width: 300px;
-  height: 556px;
 }
 
 h2{
-  font-weight: bold;
   text-align: center;
 }
 
@@ -145,10 +130,8 @@ h2{
 .column-button{
   background-color: #048eaa;
   color: #ffffff;
-  font-weight: 100;
   margin-left: 20px;
   padding: 10px;
-  text-align: center;
   width: 230px;
 }
 
@@ -162,12 +145,13 @@ h2{
 
 footer{
   background-color: #048eaa;
+  bottom: 0;
   clear: both;
   color: #ffffff;
-  height: 150px;
-  width: 100%;
+  height: 160px;
+  margin-bottom: -90px;
   text-align: center;
-  margin-bottom: -100px;
+  width: 100%;
 }
 
 h3{
@@ -175,7 +159,6 @@ h3{
   margin-bottom: 10px;
   padding: 10px;
 }
-.social-icons
 
 .image-social{
   color: #ffffff;
