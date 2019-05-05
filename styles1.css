@@ -1,6 +1,9 @@
 body{
   font-family: "Open Sans", sans-serif;
+  height: 100%;
+  width: 100%;
   margin: 0;
+  margin-top: 0px;
   padding: 0;
 }
 
@@ -8,7 +11,9 @@ nav{
   background-color: #75e2e6;
   border-bottom: 2px solid #048eaa;
   color: #ffffff;
-  position: absolute;
+  height: 70px;
+  margin-top: -70px;
+  position: fixed;
   text-align: center;
   width: 100%;
 }
@@ -40,19 +45,16 @@ header{
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-size: cover;
-  height: 400px;
-  margin-top: 63px;
+  height: 500px;
+  margin-top: 70px;
   padding-bottom: 20px;
   width: 100%;
 }
 
-#header-content{
-	margin: auto;
-}
-
 h1{
-  margin: 15px 5px 5px 5px;
   color: #ffffff;
+  margin: 15px 5px 5px 5px;
+  padding-top: 40px;
   text-align: center;
 }
 
@@ -60,10 +62,12 @@ h1{
   font-stretch: expanded;
   font-weight: 100;
 }
+
 #bold-headline{
   font-stretch: expanded;
   font-weight: 800;
 }
+
 .image-header{
   border: 4px solid #048eaa;
   border-radius: 50%;
@@ -71,6 +75,7 @@ h1{
   height: 200px;
   padding: 0px;
   margin: auto;
+  margin-top: 50px;
   width: 200px;
 }
 
@@ -180,7 +185,6 @@ h3{
 }
 
 * {
-  border:red 1px solid;
   box-sizing: border-box;
 }
 
