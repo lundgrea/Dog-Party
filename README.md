@@ -7,15 +7,13 @@ The Dog Party 2.0 project was an example of a project that a front end developer
 ![](portfolio/comp1.jpg)
 
 ### Comp One Completed Layout:
-<<<<<<< HEAD
 ![](portfolio/comp2_AJL.jpg)
+
 ### Comp Two (received May 1, 2019):
 ![](portfolio/comp2.jpg)
 
 ### Comp Two Completed Layout:
 ![](portfolio/comp2_AJL.jpg)
-
-=======
 
 ### Comp Two (received May 1, 2019):
 ![](portfolio/comp2.jpg)
