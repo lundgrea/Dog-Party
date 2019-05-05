@@ -12,6 +12,7 @@ The Dog Party 2.0 project was an example of a project that a front end developer
 ![](portfolio/comp2.jpg)
 
 ### Comp Two Completed Layout:
+![](portfolio/comp2_AJL.jpg)
 
 ## Project Takeaways:
 Prior to receiving the second comp the HTML was build solely to support the first comp. The code was busy and messy as I worked to accomodate the needs of the CSS within the HMTL and vise versa. During this process I wondered the best way to tackle projects such as this. Should the HMTL come first or should the stylization come first? As soon as the second comp was received, as well as receiving instruction in class on best HTML and CSS practices, it was obvious that a new set of HTML should be written to successfully fulfill this project's requirements. I began my HTML code using lots of <div> elements and within my second iteration of the process was able to remove these elements and create more semantic code. I was also better able to understand the use of classes and IDs wihtin the HTML and their connection to the CSS. Prior to beginning to write out my HTML code for the second time I took a couple of minutes to "whiteboard" and pseudocode the layouts on paper (helping to answer my above question on which should come first, the HTML or the stylization). I used the same HMTL elements within each of the drawings to ensure I would be able to create both layouts using the same HTML code.
